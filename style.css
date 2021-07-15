@@ -222,3 +222,91 @@
     margin-top: 3rem;
     line-height: 3rem;
 }
+
+.sessao-2 {
+    width: 100%;
+    background-color: #9693E6;
+    padding-bottom: 5rem;
+}
+
+.sessao-2-wrapper {
+    width: 90rem;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.sessao-2-left {
+    font-family: var(--font);
+    color: #FFF;
+    width: 50%;
+    margin: 10rem 0;
+}
+
+.sessao-2-left h3 {
+    font-size: 3rem;
+    margin-bottom: 5rem;
+}
+
+.sessao-2-left p {
+    font-size: 1.5rem;
+    line-height: 3rem;
+    padding-right: 10rem;
+}
+
+.img-sessao2-wrapper {
+    width: 40rem;
+}
+
+.img-sessao2-wrapper img {
+    width: 100%;
+}
+
+#img-mulher {
+    margin-bottom: 10rem;
+}
+
+.sessao-2-right {
+    width: 50%;
+    position: relative;
+}
+
+.sessao-2-right-wrapper {
+    position: absolute;
+    background-color: #FFF;
+    color: #4B4A65;
+    height: 70%;
+    border-radius: 3rem;
+    padding: 3rem;
+    text-align: center;
+    bottom: 0px;
+}
+
+.sessao-2-right-wrapper img {
+    margin-bottom: 2rem;
+}
+
+.sessao-2-right-wrapper h3 {
+    font-size: 3rem;
+    margin-bottom: 3rem;
+}
+
+.sessao-2-right-wrapper p {
+    font-size: 1.8rem;
+    font-style: italic;
+    margin-bottom: 4rem;
+}
+
+.sessao-2-right-wrapper button {
+    background-color: #C3C1F1;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 3rem;
+    border-style: none;
+    cursor: pointer;
+    color: #4B4A65;
+}
+
+.sessao-2-right-wrapper i {
+    font-size: 1.7rem;
+}
