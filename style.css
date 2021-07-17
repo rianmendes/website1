@@ -509,3 +509,66 @@
     background-color: #4B4A65;
 }
 
+.sessao-6 {
+    background-color: #9693E6;
+}
+
+.sessao-6-wrapper {
+    text-align: center;
+    padding: 8rem 0;
+    width: 40%;
+    margin: auto;
+}
+
+.sessao-6-wrapper p {
+    color: #BAC1F1;
+    font-size: 1.5rem;
+    letter-spacing: .5rem;
+}
+
+.sessao-6-wrapper h3 {
+    color: #FFF;
+    font-size: 4rem;
+}
+
+.sessao-6-wrapper h3 + h3 {
+    color: #FFC166;
+    font-size: 10rem;
+}
+
+.sessao-6-wrapper h3 + p {
+    color: #FFF;
+    letter-spacing: 0;
+    font-size: 1.8rem;
+}
+
+.sessao-6-wrapper button {
+    border-style: none;
+    border-radius: 4rem;
+    width: 25rem;
+    height: 7rem;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #9693E6;
+    letter-spacing: .2rem;
+    cursor: pointer;
+}
+
+.sessao-6-wrapper button + p {
+    letter-spacing: 0;
+}
+
+.sessao-6-wrapper button:hover {
+    opacity: .6;
+}
+
+.rodape {
+    background-color: #333333;
+    color: #FFF;
+    text-align: center;
+}
+
+.rodape p {
+    font-size: 1.4rem;
+    padding: 5rem 0;
+}
